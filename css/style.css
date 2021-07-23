@@ -1,0 +1,99 @@
+.banner-section{
+    padding:210px 0;
+    background-size: cover;
+    background-image: url("../img/banner.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-align: center;
+    display: grid;
+}
+
+
+
+.banner-section h1{
+    font-size: 70px;
+}
+.btn1{
+    color: black;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 8px 28px;
+    font-weight: 500;
+}
+.btn1:hover{
+    color: white;
+    background-color: black;
+    border: black;
+}
+
+
+.avenger-container
+{
+    padding: 50px 0;
+}
+
+.av-item1{
+    font-size: 28px;
+    font-weight: 700;
+
+}
+.av-item2{
+color: #db0a61;
+font-size: 26px;
+}
+
+
+.avenger-items{
+    text-align: center;
+    
+}
+
+.all-section{
+    background-color: #db0a61;
+    padding: 50px 0;
+}
+.h1-text{
+    text-align: center;
+    padding: 30px 0;
+    color: white;
+}
+.section-items{
+    display: flex;
+    color: white;
+}
+
+
+/* about section  */
+.about-item .fas{
+    font-size: 10px;
+    padding: 2.5px;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+}
+
+
+.testimonial{
+    width: 100%;
+    background-color: black;
+}
+.set-width{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.testimonial img{
+    height: 100px;
+    width: 100px;
+}
+.contacts .fab{
+    color: white;
+    border: 1px solid #fff;
+    padding: 17px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 1%;
+    margin-top: 2%;
+}
