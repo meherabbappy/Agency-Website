@@ -11,7 +11,6 @@
 }
 
 
-
 .banner-section h1{
     font-size: 70px;
 }
@@ -53,6 +52,14 @@ font-size: 26px;
 .all-section{
     background-color: #db0a61;
     padding: 50px 0;
+}
+.all-section .far, .fas{
+    color: white;
+    border: 1px solid #fff;
+    padding: 20px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
 }
 .h1-text{
     text-align: center;
