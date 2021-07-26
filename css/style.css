@@ -1,11 +1,11 @@
 .banner-section{
     padding:210px 0;
     background-size: cover;
-    background-image: url("../img/banner.jpg");
+    background-image:linear-gradient(rgba(75, 5, 77, 0.466), rgba(88, 4, 74, 0.349)), url("../img/banner.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
-    color: black;
+    color: white;
     text-align: center;
     display: grid;
 }
@@ -15,16 +15,17 @@
     font-size: 70px;
 }
 .btn1{
-    color: black;
+    color: white;
     font-size: 20px;
-    border: 1px solid white;
+    border: 2px solid white;
     padding: 8px 28px;
     font-weight: 500;
+    background-color: transparent;
 }
 .btn1:hover{
     color: white;
-    background-color: black;
-    border: black;
+    background-color: #db0a61;
+    border: 2px solid #db0a61;
 }
 
 
